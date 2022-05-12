@@ -1,0 +1,310 @@
+{
+    
+    "title_mainpage" : "The Cheapest Flights",
+    "@title_mainpage":{
+        "description": "current language"
+    },
+
+    "title1_mainpage" : "Just The Cheapest Flights!",
+    "@title1_mainpage":{
+        "description": "current language"
+    },
+
+        
+    "sub_ryanair_mainpage" : "Find the Cheapest Ryanair flights",
+    "@sub_ryanair_mainpage":{
+        "description": "current language"
+    },
+
+    "search_btn_mainpage" : "Search Now",
+    "@search_btn_mainpage":{
+        "description": "current language"
+    },
+
+    "developed_mainpage" : "2022 - Developed by BobCop",
+    "@developed_mainpage":{
+        "description": "current language"
+    },
+
+    "disclaimer_mainpage" : "CheapFly is not associated or part of Ryanair or any other company. All information is believed to be correct but does not purport to be all inclusive and shall be used only as a guide.",
+    "@disclaimer_mainpage":{
+        "description": "CheapFly is not associated or part of Ryanair or any other company. All information is believed to be correct but does not purport to be all inclusive and shall be used only as a guide."
+    },
+
+
+    "oneway_homepageRy" : "One Way",
+    "@oneway_homepageRy":{
+        "description": "current language"
+    },
+
+    "oneway_sub_homepageRy" : "The cheapest one-way flight during the period of time you choose",
+    "@oneway_sub_homepageRy":{
+        "description": "current language"
+    },
+
+    "roundtrip_homepageRy" : "Roundtrip Flights",
+    "@roundtrip_homepageRy":{
+        "description": "current language"
+    },
+
+    "roundtrip_sub_homepageRy" : "The cheapest Roundtrip flight during the period of time you choose",
+    "@roundtrip_sub_homepageRy":{
+        "description": "current language"
+    },
+
+    "search_btn_homepageRy" : "Search",
+    "@search_btn_homepageRy":{
+        "description": "current language"
+    },
+
+    "oneway_main" : "Ryanair - One Way Flights",
+    "@oneway_main":{
+        "description": "current language"
+    },
+
+    "from" : "From",
+    "@from":{
+        "description": "current language"
+    },
+
+    "to" : "To",
+    "@To":{
+        "description": "current language"
+    },
+
+    "select_dep" : "Select Departure",
+    "@select_dep":{
+        "description": "current language"
+    },
+
+    "select_dest" : "Select Destination",
+    "@select_dest":{
+        "description": "current language"
+    },
+
+    "anywhere" : "Anywhere",
+    "@anywhere":{
+        "description": "current language"
+    },
+
+    "dates_title" : "Enter the period of time",
+    "@dates_title":{
+        "description": "current language"
+    },
+
+    "dates_sub_title" : "Select the period of time in which you would like to find the cheapest flight available",
+    "@dates_sub_title":{
+        "description": "current language"
+    },
+
+    "one_way_btn_search" : "Search Cheapest Flight",
+    "@one_way_btn_search":{
+        "description": "current language"
+    },
+
+    "back_btn" : "Back",
+    "@back_btn":{
+        "description": "current language"
+    },
+
+    "auto_from_title" : "Select Departure Airport",
+    "@auto_from_title":{
+        "description": "current language"
+    },
+
+    "auto_to_title" : "Select Destination",
+    "@auto_to_title":{
+        "description": "current language"
+    },
+
+    "auto_from_sub_title" : "From where?",
+    "@auto_from_sub_title":{
+        "description": "current language"
+    },
+
+    "auto_to_sub_title" : "To where?",
+    "@auto_to_sub_title":{
+        "description": "current language"
+    },
+
+    "dates_go_now" : "GO NOW",
+    "@dates_go_now":{
+        "description": "current language"
+    },
+
+    "roundtrip_title" : "Ryanair - RoundTrip Flights",
+    "@roundtrip_title":{
+        "description": "current language"
+    },
+
+    "days_in_dest_roundtrip" : "How many days in Destination?",
+    "@days_in_dest_roundtrip":{
+        "description": "current language"
+    },
+
+    "one_days" : "1-3 days",
+    "@one_days":{
+        "description": "current language"
+    },
+
+    "four_days" : "4-7 days",
+    "@four_days":{
+        "description": "current language"
+    },
+
+    "eight_days" : "8-14 days",
+    "@eight_days":{
+        "description": "current language"
+    },
+
+    "alert_days_dest_round" : "Please select how long is your trip",
+    "@alert_days_dest_round":{
+        "description": "current language"
+    },
+
+    "one_way_res_title" : "The Cheapest One Way Flight",
+    "@one_way_res_title":{
+        "description": "current language"
+    },
+
+    "one_way_sub_title" : "Your Flight",
+    "@one_way_sub_title":{
+        "description": "current language"
+    },
+
+    "one_way_res_only" : "for only",
+    "@one_way_res_only":{
+        "description": "current language"
+    },
+
+    "one_way_res_check_btn" : "Check in Ryanair.com",
+    "@one_way_res_check_btn":{
+        "description": "current language"
+    },
+
+    "one_way_res_info_title" : "Important information",
+    "@one_way_res_info_title":{
+        "description": "current language"
+    },
+
+    "one_way_res_info_text" : "Price can change suddenly without any notice. CheapFly is not responsible of any changes. Prices displayed in the app are indicative.",
+    "@one_way_res_info_text":{
+        "description": "current language"
+    },
+
+    "one_way_res_btn_search" : "Search Again",
+    "@one_way_res_btn_search":{
+        "description": "current language"
+    },
+
+    "one_way_any_title" : "The Cheapest Flights to...",
+    "@one_way_any_title":{
+        "description": "current language"
+    },
+
+    "roundtrip_res_title" : "The Cheapest Roundtrip Flights",
+    "@roundtrip_res_title":{
+        "description": "current language"
+    },
+
+    "roundtrip_res_out" : "Outbound",
+    "@roundtrip_res_out":{
+        "description": "current language"
+    },
+
+    "roundtrip_res_inbound" : "Inbound",
+    "@roundtrip_res_inbound":{
+        "description": "current language"
+    },
+
+    "roundtrip_res_flight_details" : "Flight Details",
+    "@roundtrip_res_flight_details":{
+        "description": "current language"
+    },
+
+    "roundtrip_res_hide_details" : "Hide Details",
+    "@roundtrip_res_hide_details":{
+        "description": "current language"
+    },
+    
+    "roundtrip_res_details_outbound_title" : "Outbound Flight Details",
+    "@roundtrip_res_details_outbound_title":{
+        "description": "current language"
+    },
+
+    "roundtrip_res_details_inbound_title" : "Inbound Flight Details",
+    "@roundtrip_res_details_inbound_title":{
+        "description": "current language"
+    },
+
+    "roundtrip_res_details_date" : "Date",
+    "@roundtrip_res_details_date":{
+        "description": "current language"
+    },
+
+    "roundtrip_res_details_price" : "Price",
+    "@roundtrip_res_details_price":{
+        "description": "current language"
+    },
+
+    "roundtrip_res_details_total_price" : "Total price",
+    "@roundtrip_res_details_total_price":{
+        "description": "current language"
+    },
+
+    "roundtrip_res_details_trip_dur" : "Trip Duration",
+    "@roundtrip_res_details_trip_dur":{
+        "description": "current language"
+    },
+    
+    "roundtrip_res_details_trip_dur_days" : "days",
+    "@roundtrip_res_details_trip_dur_days":{
+        "description": "current language"
+    },
+
+    "roundtrip_any_title" : "Cheapest Roundtrip Flight to...",
+    "@roundtrip_any_title":{
+        "description": "current language"
+    },
+
+    "no_internet" : "No Internet Connection",
+    "@no_internet":{
+        "description": "current language"
+    },
+
+    "no_internet_sub_title" : "Oops...Please check your internet connection and retry",
+    "@no_internet_sub_title":{
+        "description": "current language"
+    },
+
+    "no_flights_title" : "No flights are available in the period you chose",
+    "@no_flights_title":{
+        "description": "current language"
+    },
+
+    "no_flights_sub_title" : "Try to select a wider period and search again. Ryanair does not offer daily flights to all destinations.",
+    "@no_flights_sub_title":{
+        "description": "current language"
+    },
+
+    "change_dates" : "Change Dates",
+    "@change_dates":{
+        "description": "current language"
+    },
+
+    "no_airport_found" : "Oops...no airport found. Please try again.",
+    "@no_airport_found":{
+        "description": "current language"
+    },
+
+    "select_destination_error" : "Please select a Destination",
+    "@select_destination_error":{
+        "description": "current language"
+    },
+
+    "select_dates_error" : "Please select the Period in which you will travel",
+    "@select_dates_error":{
+        "description": "current language"
+    }
+
+}
